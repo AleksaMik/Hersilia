@@ -1,5 +1,8 @@
 # Hersilia
 
+<img width="1323" alt="Screen Shot 2022-08-26 at 12 27 29 AM" src="https://user-images.githubusercontent.com/105229148/186828696-7b57016b-dce7-412f-b7e6-b92a2843d4e9.png">
+
+
 ## Description 
 
 This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.
